@@ -1,0 +1,6 @@
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/build/CMakeFiles/sockets.dir
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/build/core/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/build/core/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/build/core/CMakeFiles/core.dir

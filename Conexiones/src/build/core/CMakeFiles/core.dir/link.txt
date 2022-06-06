@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a  CMakeFiles/core.dir/socket.cc.o
+/usr/bin/ranlib libcore.a

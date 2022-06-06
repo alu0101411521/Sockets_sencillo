@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/include/core/socket.h
+arpa/inet.h
+-
+errno.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+unistd.h
+-
+exception
+-
+array
+-
+iostream
+-
+string
+-
+
+/mnt/c/Users/ENDIKA PRADERA/OneDrive/Desktop/proyectos/Desencrypt/Conexiones/src/conexionApp/socket_main.cc
+core/socket.h
+-
+signal.h
+-
+array
+-
+cstring
+-
+iostream
+-
+string
+-
+

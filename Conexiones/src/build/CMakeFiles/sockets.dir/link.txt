@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sockets.dir/conexionApp/socket_main.cc.o  -o sockets  core/libcore.a 
